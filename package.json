@@ -1,0 +1,17 @@
+{
+  "name": "rocktalk",
+  "version": "1.0.0",
+  "description": "its a music website",
+  "main": "main.js",
+  "scripts": {
+    "test": "npx vite"
+  },
+  "author": "Masalex8 Tom",
+  "license": "MIT",
+  "devDependencies": {
+    "vite": "^4.3.9"
+  },
+  "dependencies": {
+    "firebase": "^9.23.0"
+  }
+}
